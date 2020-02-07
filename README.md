@@ -23,6 +23,20 @@
 
 ```
 
+# Help
+
+``` 
+setusername @username 
+set username for check 
+
+delusername @username 
+del seted username 
+
+checker  
+checking again 
+
+```
+
 
 ## Amir Bagheri - [Milad Heidary](http://github.com/MiladHeidary)
 
