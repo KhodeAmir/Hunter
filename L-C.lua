@@ -4,7 +4,7 @@ require("U-T.utils")
 reset = function()
 if isFile('./CRCO-TG') then
   os.execute('rm -rf ./CRCO-TG')
-    print("\027[" .. color.black[1] .. ";" .. color.red[2] .. "m ==> Self Bot reseted account \027[00m")
+    print("\027[" .. color.black[1] .. ";" .. color.red[2] .. "m ==> Bot reseted account \027[00m")
     else
 print("\027[" .. color.black[1] .. ";" .. color.green[2] .. "m ==> Account not found\027[00m")
     end
