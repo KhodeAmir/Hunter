@@ -1,6 +1,6 @@
 
 
- # Self-BOT-X Beta Project 
+ # Hunter Project  #Username CHECKER
 
 # **CRCO** #
 
@@ -12,27 +12,24 @@
 ```
 ./ZPM install -- installing packages {1}
 
-./ZPM config --Configure Self {2}
+./ZPM config --Configure bOT {2}
 
 ./ZPM login -- Login to account {3}
 
 ./ZPM start -- Runing {4}
 
-./ZPM reset -- Reset Self
+./ZPM reset -- Reset Account
 
 
 ```
 
 
+## Amir Bagheri - [Milad Heidary](http://github.com/MiladHeidary)
 
-
-
-# [Plugins ](https://t.me/crcoplugins)
 
 
 # [Telegram Channel ](https://t.me/crcoproject)
 
 
-## CRCO - Amir Bagheri
 
-
+ 
