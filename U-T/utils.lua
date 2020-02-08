@@ -2,7 +2,7 @@
 utf8 = require "U-T.utf8" 
   client = require("redis")
   socket = require('socket')
-    redis = client.connect('127.0.0.1', 6379)
+
         serpent = require "serpent"
      encode_json = require("dkjson")
    https = require("ssl.https")
