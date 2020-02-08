@@ -1,7 +1,6 @@
 --U-T
 utf8 = require "U-T.utf8" 
   client = require("redis")
-  socket = require('socket')
 
         serpent = require "serpent"
      encode_json = require("dkjson")
@@ -280,7 +279,7 @@ if  value == nil  then
 elseif value  and type(value) ~= 'string' then
   return '〘E〙'
 elseif value and type(value) == 'string' then
-return '〘'..value..'〙'
+return ''..value..''
 end
 end
 
