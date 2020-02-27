@@ -1,6 +1,6 @@
 
 
- # Hunter Project - Username CHECKER
+ # Hunter Project - Username Checker - V2
 
 # **CRCO** #
 
